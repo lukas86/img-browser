@@ -1,9 +1,195 @@
 V to datoteko lahko vnašate vprašanja, opombe, predloge, navodila ...
 
-Ali vam Github dela?
+Submission status
+Submission status    Nothing has been submitted for this assignment
+Grading status	Not graded
+Rok za oddajo	nedelja, 2. december 2012, 23:55
+Time remaining	1 dan
 
+Projektni praktikum
 
+Projektni praktikum     | 80 days?              | 1.10.2012 | 8:00  | 18.1.2013 |  22:00
+2 Uvodno predavanje 15 ( 60 t )                 | 19,75 days? 1.10.2012 8:00 26.10.2012 17:00
+3 a) Pisanje I ( LaTEX )                        | 5 days? 1.10.2012 8:00 5.10.2012 17:00
+4 b) Pisanje II                                 | 5 days? 8.10.2012 8:00 12.10.2012 17:00
+5 c) Govorni nastop                             | 5 days? 15.10.2012 8:00 19.10.2012 17:00
+6 d) Osebna produktivnost                       | 5 days? 22.10.2012 8:00 26.10.2012 17:00
+7 1. November Oddaja pisnih izdelkov            | 0 days? 15.10.2012 8:00 15.10.2012 8:00
+8 Mrežno nartovanje                     | 6 days? 12.11.2012 10:00 19.11.2012 22:00
+9 a) Mrežno nartovanje                          | 5 days? 12.11.2012 10:00 16.11.2012 22:00
+10 b) Samostojno delo na domaih...              |  5 days? 12.11.2012 10:00 16.11.2012 22:00
+11 c) Prietek nartovanja projekta               | 5 days? 12.11.2012 10:00 16.11.2012 22:00
+12 d) Konzultacije & dskusija                   | 5 days? 12.11.2012 10:00 16.11.2012 22:00
+13 e) Oddaja domae naloge 2                     | 0 days? 17.11.2012 8:00 19.11.2012 22:00
+14 Adaptivno vodenje proje... Individualni zagovori | 5 days? 19.11.2012 8:00 23.11.2012 22:00 
+15 Praktina navodila za... 10 ( 45 t )      | 5 days? 26.11.2012 10:00 30.11.2012 22:00 
+16 a) Oddaja projektnega narta ...              | 5 days? 26.11.2012 10:00 30.11.2012 22:00 ( X )
+17 Metodologija in vizua... 10 ( 45 t )     | 5 days? 3.12.2012 10:00 7.12.2012 22:00
+18 a) Implementacija projekta in k...           | 5 days? 3.12.2012 10:00 7.12.2012 22:00
+19 Projekti za razvoj pro... 10 ( 45 t )    | 5 days? 10.12.2012 10:00 14.12.2012 22:00
+20 a) Implementacija projekta in k...           | 5 days? 10.12.2012 10:00 14.12.2012 22:00
+21 Delo v skupinah in vo... 10 ( 45 t )         | 5 days? 17.12.2012 10:00 21.12.2012 22:00
+22 a) Implementacija projektov in ...           | 5 days? 17.12.2012 10:00 21.12.2012 22:00
+23 Prednovoletni teden                          | 5 days? 24.12.2012 8:00 28.12.2012 22:00
+24 Ponovoletni teden                            | 5 days? 31.12.2012 8:00 4.1.2013 22:00
+25 Reševanje problemo... 5 (45 t )              | 5 days? 7.1.2013 10:00 11.1.2013 22:00
+26 a) Oddaja projektov in zagovori I            | 5 days? 7.1.2013 10:00 11.1.2013 22:00
+27 Test 40 ( 100t )                             | 5 days? 14.1.2013 10:00 18.1.2013 22:00
+28 a) Oddaja projektov in zagovo...             | 5 days? 14.1.2013 10:00 18.1.2013 22:00
+29 Numerine metode                       15 days? 1.10.2012 8:00 19.10.2012 22:00
+30 Oktober                  | 15 days? 1.10.2012 8:00 19.10.2012 22:00
+31 Uvod                             | 5 days? 1.10.2012 8:00 5.10.2012 22:00
+32 a) Napake pri numerinem rau...   | 5 days? 1.10.2012 8:00 5.10.2012 22:00
+33 b) Absolutna in relativna napaka | 5 days? 1.10.2012 8:00 5.10.2012 22:00
+
+Prijavljeni ste kot Jure Šavc (Odjava)
+Pot strani
+
+    Domov
+    / ► Moji predmeti
+    / ► pp
+    / ► 19. november - 25. november
+    / ► Izbrani projekti
+    / ► Manipulacija slik v brskalniku
+
+Pomoč za IščiIščiIšči v forumih
+
+https://ucilnica.fri.uni-lj.si/mod/forum/discuss.php?d=6896
+
+<a href="https://estudent.fri.uni-lj.si/pls/portal30/vz63.proc_swf&izpiti=63703,63705,63701,63704,63702,63709,63710,63706,63707,63708,63731,63717,63714,63712,63711,63720,63718,63728,63725,63723,63721,63730,63738,63737,63742,63741,1,63743">
+ZekomZ - Zekom Tribute Magazine - G+
+</a><a href="http://www.fri.uni-lj.si/file/133640/predmetnik_estudent_04.swf">
+WwW.IndieGoGo.com/Zekom
+Zekom. It's the Law.
+</a>
+
+---
+Welcome, New Administrator.
+https://github.com/lukas86/img-browser
+https://github.com/lukas86/img-browser/network
+https://github.com/Zekom/img-browser
+https://github.com/Zekom
+
+0
+followers
+ 
+30
+starred
+ 
+3
+following
+
+---
+Zekom has 40 repos written in PHP. Follow their code on GitHub.
+Zekom (ZekomZ - Zekom Tribute Magazine - G+) · GitHub
+https://github.com/Zekom
+
+Netbeans Manual - GitHub Installation Guide for Windows 7
+http://netbeans.org/kb/docs/ide/git.html
 
 Kako v okolju GITHUB dodamo povezane repozitorije:
 http://stackoverflow.com/questions/7813030/how-can-i-have-linked-dependencies-in-a-git-repo
+
+<a href="http://WwW.Indiegogo.com/Zekom">
+................................................................................
+................................................................................
+................................................................................
+................................................................................
+................................................................................
+................................................................................
+................................................................................
+................................................................................
+.............,,,,,,,,,,,..~.,,,,,,,,,,,,,~.,,,,,,,,,,,.~,.,,,,,.......~.........
+.............I?II+I???III.~.II=I+??+=?+I:~.II~?II+I=:?+~,.++++++++++++:,........
+.............IIIIIII?IIII,~.IIIIIIII?III:~.IIIIIIIIIIII~,.++++++++++++:,........
+.............I:~IIIIIIIII,~.I+?IIIIIIIII:~.I?III+IIIIII~,.+:++.++.++++:,........
+.............I=+I.II.IIII,~.I+,I:?I.IIII:~.II,II,IIIIII~,.+.+++.++++++:,........
+.............I?II.II.IIII.~.I?II.IIIIIII:~.IIIII,IIIIII~,.+++++=.+++++:,........
+.............I??I?,?,IIII,~.I~?I?.+.IIII:~.I~,II:+IIIII~,.+.++++:+++++:,........
+.............IIIIIIIIIIII.~.IIIIIIIIIIII:~.IIIIIIIIIIII~,.++++++++++++:,........
+.............IIIIII.?IIII.~.III:,?~+:III:~.IIII=~:+IIII~,.+++~::,=,+++:,........
+.............IIIIII?IIIII.~.IIIIIIIIIIII:~.IIIIII?IIIII~,.++++++++++++:.........
+.............============...============...============...~~~~~~~~~~~~..........
+..............~~~~~~~~~~~~:..~~~~~~~~~~~~:..~~~~~~~~~~~~,..::::::::::::.........
+.............IIIIIIIII?II,~.IIIIIIIIII?I:~.IIIIIIIIIIII~,.+=++++++++++:,........
+.............I~+?==:?,III.~.II++?~,:=III~~.+?III.~=IIII~,.+.++++++++++:,........
+.............IIIIIII??III,~.IIIIIIIIIIII:~.IIII.IIIIIII~,.+++++~++++++:,........
+.............II?,I?+??III,~.II?,I..=IIII:~.I?+~.?~IIIII~,.+,++.++.++++:,........
+..........:..II?I,II:?III,~.IIII:~IIIIII:~.IIII.II.IIII~,.++++.++.++++:,........
+..........~..II~I.II+IIII.~.II?IIII.IIII:~.IIII.II.IIII~,.+++++.~.++++:,........
+.............I~.II..??III.~.II?III??IIII:~.I??I.=.IIIII~,.+=+++..=++++:,........
+..........~..IIIIIIIIIIII.~.IIIIIIIIIIII:~.IIIIIIIIIIII~,.++++++++++++:,........
+..........=..IIII=?+:IIII.~.II?=:?,?.?II:~.III:?::+:III~,.++++.==.++++:,........
+.............IIIIIIIIIIII...IIIIIIIIIIII:..IIIIIIIIIIII~..++++++++++++:.........
+................................................................................
+.............,............~.,...........,~.,...........~,.,,..........:,........
+.............+?=?.+?+.??+.~.++:++:=.+?:?:~.?~+?:+++:=?=~,.=++~+~+,++~+:,........
+.............+++++++????+.~.++?++++++???:~.???+???+??++~,.++++++++++++:,........
+.............+:????++++++.~.?,+?++??++++:~.?:?+?+??++++~,.+:++,,,,:+.+:,........
+.............+,?+.+~+++++.~.?+++~+~+++++:~.+?++.?.?++++~,.++++++.+++.+:,........
+.............+?+??~??~??+.~.?+?+..?:++++:~.++++.++,~+++~,.+++++.++++++:,........
+.............+++?+?++=+?+.~.?,~??++:~+++:~.+~,+??++~++?~,.++++....++++:,........
+.............+????+?+??++.~.++???++++?++:~.++++??+?+++?~,.++++++++++++:,........
+.............++,?=,?+=?++.~.+++:+:==+?++,~.?+???+,=?++?~,.++?+.:++:,++:,........
+.............++:=:+?.??++.:.++=:~~?.+?++,~.???~?,,+,?+?~,.++++++++++++:,...~....
+..........................................................................~:....
+..............~~~:::::::~::..:~~~:::::~:~~..~~~:::::~~~~,..::::::::::::,..:.....
+.............+?+++?++??+?.~.+????+++?++?:~.+?+???+?+???~,.++++++++++++:,..,:....
+.............,??+?+?=???+.~.~~+?~?.,++??:~.????+?:=++:?~,.=+,.++.+++++:,..~.....
+.............+?+++??+?+??.~.?++??+?+??++:~.++?+++++???+~,.++++++++++++:,........
+..........:..+??++..,++++.~.+++++??+++++:~.?++++????+++~,.++:.++.++.++:,..~~....
+.............++++.=~~?+++.~.++??.??~++++:~.+??+?++?++++~,.+++.+.=+.+..:,..~:....
+.............+?:+.?+?++++.~.+?++.??~++++:~.???+??+?++++~,.++++~:+..+++:,........
+.........,,..+:.++??+?+++.~.+???.++?++++:~.++?++?+++++?~,.++++++++++++:,........
+.............+???+??+++++.~.+++?.?+???++,~.++++?+?++++?~,.++++++++++++:,........
+.............++~=+,.?.+++.~.+++:+,?,?+++,~.?+++?+:=+++?~,.++++.+.+=,=+:,..,:....
+.............+++?+++++??+...+++++??+++++,..?++++++++++?~..++++++++++++:....~....
+................................................................................
+................................................................................
+                                                                 GlassGiant.com
+</a>
+
+
+
+Organization Name
+
+    The organization will live at https://github.com/
+
+Billing Email
+
+    Receipts will be sent here
+
+Secure Choose the organization’s plan
+Plan     Private Repos 	
+Mendelevium ($1,250/month) 	900 	
+Einsteinium ($1,050/month) 	750 	
+Fermium ($850/month) 	600 	
+Holmium ($650/month) 	450 	
+Diamond ($450/month) 	300 	
+Platinum ($200/month) 	125 	
+Gold ($100/month) 	50 	
+Silver ($50/month) 	20 	
+Bronze ($25/month) 	10 	
+Open Source ($0/month) 	0 	
+
+
+
+- priprava projektne dokumentacije (tekstovno)
+- priprava dokumentacije (mrežni diagram, gantt, itd, v "projectlibre)
+
+- izdelava prototipa (proof of concept, da je mogoč drag-drop datoteke v browser, da se slika nariše v HtmlCanvas)
+- nadgradnja prototipa, da je mogoče filtre/Efekte programirati modularno (GaussianBlur extends Effect)
+- dodana možnost, da se slika prenese iz strežnika in naloži v HtmlCanvas, ter da to sliko lahko nazaj shranimo
+    - PHP-image-browser(thumbnaili), "save.php" datoteka s katero lahko shranimo neko sliko.
+
+- modul: inverse
+- modul: black/white
+- modul: sephia
+
+- modul: prikaz histograma (tudi po barvnih kanalih)
+- modul: gaussian blur, box blur...
+- modul: levels (darken-brighten, contrast, hue )
+- modul: crop
+
+- modul: še kakšen domiselen efekt na sliki. ... (motion blur, ...)
 
